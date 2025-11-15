@@ -138,3 +138,6 @@ git checkout -- path/to/file
 ### If you want a demo block on the homepage
 
 If you'd like a visible demo for students, you (or an instructor) can add a small snippet into `content/index.njk` or `_includes/layouts/home.njk` showing `.student-banner`, `.student-card`, and `.student-btn`. Keep it clearly marked as removable.
+
+Citations:
+https://www.schools.nyc.gov/learning/subjects/social-studies/asian-american-and-pacific-islander-heritage-month
