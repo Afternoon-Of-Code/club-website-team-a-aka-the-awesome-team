@@ -15,7 +15,7 @@ What this file provides:
 
 :root {
   /* Colors --- change these to adjust your student theme */
-  --student-accent: #c53421;           /* primary accent */
+  --student-accent: #0a66c2;           /* primary accent */
   --student-accent-contrast: #ffffff;  /* text color on accent backgrounds */
   --student-muted: #6b7280;            /* muted text */
   --student-bg: transparent;           /* additional background for student components */
