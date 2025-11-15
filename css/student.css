@@ -15,9 +15,9 @@ What this file provides:
 
 :root {
   /* Colors --- change these to adjust your student theme */
-  --student-accent: #e9bb25;           /* primary accent */
-  --student-accent-contrast: #eecc0c;  /* text color on accent backgrounds */
-  --student-muted: #db9c27c2;            /* muted text */
+  --student-accent: #fffdd0;           /* primary accent */
+  --student-accent-contrast: #ffd700;  /* text color on accent backgrounds */
+  --student-muted: #ff0000;            /* muted text */
   --student-bg: transparent;           /* additional background for student components */
 
   /* Typography --- prefer fonts that are web-safe or already available */
@@ -38,7 +38,7 @@ What this file provides:
   display: block;
   padding: calc(var(--student-gap) * 1.25);
   margin: 0 0 var(--student-gap) 0;
-  background: linear-gradient(90deg, var(--student-accent), color-mix(in srgb, var(--student-accent) 60%, #000000 40%));
+  background: linear-gradient(90deg, var(--student-accent), color-mix(in srgb, var(--student-accent) 60%, #e4da1e 40%));
   color: var(--student-accent-contrast);
   border-radius: var(--student-radius);
   font-family: var(--student-font-family);
