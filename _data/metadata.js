@@ -1,11 +1,11 @@
 export default {
-	title: "Eleventy Base Blog v9",
-	url: "https://example.com/",
+	title: "Association for Asian & Asian American Awareness",
+	url: "https://alleghenya5.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Our club is about promoting understanding of Asian cultures, providing a supportive community for members, and dispelling stereotypes through educational and social events.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Hannah Brown and Cullen Doyle",
+		email: "brown09@allegheny.edu, doyle01@allegheny.edu",
+		url: "https://alleghenya5.com/website-authors/"
 	}
 }
