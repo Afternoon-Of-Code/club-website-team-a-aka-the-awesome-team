@@ -6,5 +6,5 @@ const eleventyNavigation = {
 ---
 # About
 
-Association for Asian & Asian AMerican Awareness. Spreading
+Association for Asian & Asian American Awareness. Spreading
 awareness and appreciation for the AAPI culture and community!
