@@ -1,5 +1,5 @@
 export default {
-	title: "Association for Asian & Asian American Awareness",
+	title: "Asian and Asian American Awareness Association",
 	url: "https://alleghenya5.com/",
 	language: "en",
 	description: "Our club is about promoting understanding of Asian cultures, providing a supportive community for members, and dispelling stereotypes through educational and social events.",
