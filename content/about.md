@@ -6,4 +6,5 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+Association for Asian & Asian AMerican Awareness. Spreading
+awareness and appreciation for the AAPI culture and community!
